@@ -1,12 +1,18 @@
-# EDA-Project
-Synthetic Dataset of Prediction of Industrial Maintenance
+**PREDICTIVE MAINTENANCE IN INDUSTRY : CLASSIFICATION MACHINE LEARNING MODEL**
 
-Objective
-  Dataset contains how the maintenance taking place in an industry and how faults can be identified in advance and prediction is  done based on it.
-  
-Problem Solving   
-  The Main Objective of this is how maintainance of the  machineries are encountered in an industry
+**Objectives**
+Developing a machine learning models that can accurately predict whether a machine will fail (binary classification).By extending the analysis to identify which type of failure will occur.This demonstrates how predictive maintenance can reduce unplanned downtime and optimize maintenance schedules.It provides feature importance insights to highlight the key drivers of failures.In industrial settings, it is important not only to predict a failure but also to explain the contributing factors (e.g., torque, temperature) which is being analysed here.
 
-Features :14
-Instances :10000
+**Source:** From UCI ML Repository, link:https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset
+
+**Tools Used**
+- Python 
+- Pandas 
+- NumPy 
+- SciPy 
+- Matplotlib 
+- Seaborn 
+- Scikit-learn 
+- Joblib
+- Jupyter Notebook
 
